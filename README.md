@@ -223,7 +223,7 @@ Integration with existing tools, frameworks, and libraries.
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders) - Space invaders game. [[Code]](https://github.com/dmarcos/a-invaders)
 - [DrawVR](http://drawvr.com/) - DrawVR's portal leading to many A-Frame experiences including stores, games, rides, theaters, and scenes
 - [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon) - A first-person dungeon crawler designed for mobile. [[Code]](https://github.com/chrismwaite/cardboard-dungeon)
-- [Don McCurdy's Sandbox](https://sandbox.donmccurdy.com/vr/) - Don McCurdy's A-Frame scenes including [MagicaVoxel](https://ephtracy.github.io/) models, physics playgrounds, and controls [[Code]](https://github.com/donmccurdy/aframe-extras)
+- [Don McCurdy's Sandbox](https://sandbox.donmccurdy.com/) - Don McCurdy's A-Frame scenes including [MagicaVoxel](https://ephtracy.github.io/) models, physics playgrounds, and controls [[Code]](https://github.com/donmccurdy/aframe-extras)
 - [Kevin Ngo's Scenes](http://ngokevin.com/kframe/) - Kevin Ngo's A-Frame scenes including MagicaVoxel models, audio visualizations, and a Minecraft demo [[Code]](https://github.com/ngokevin/kframe)
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong) - Play Pong floating atop an Aztec monument. [[Code]](https://github.com/meta-meta/aztec-pong)
 - [Hello, Pizza!](http://carpedmt.github.io) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Code]](https://github.com/carpedmt/carpedmt.github.io)
